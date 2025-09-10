@@ -40,12 +40,6 @@ certificate-system/
 
 ⚙️ Setup Instructions
 
-Clone this repository:
-
-git clone https://github.com/yourusername/certificate-system.git
-cd certificate-system
-
-
 Import the database:
 
 Create a MySQL database (e.g., certificate_system)
